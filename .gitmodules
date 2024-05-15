@@ -1,0 +1,9 @@
+[submodule "chatbot-ui"]
+	path = chatbot-ui
+	url = git@github.com:jlgsjlgs/chatbot-ui.git
+[submodule "db-writer"]
+	path = db-writer
+	url = git@github.com:jlgsjlgs/db-writer.git
+[submodule "LLM-API-middleware"]
+	path = LLM-API-middleware
+	url = git@github.com:jlgsjlgs/LLM-API-middleware.git
